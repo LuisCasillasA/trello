@@ -1,0 +1,23 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "Week 4 exercise 7",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisCasillasA/trello.git"
+  },
+  "author": "LuisCasillasA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisCasillasA/trello/issues"
+  },
+  "homepage": "https://github.com/LuisCasillasA/trello#readme"
+}
